@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi, I'm Rana Alsaggaf</h1>
 <h3 align="center">A passionate IT student</h3>
