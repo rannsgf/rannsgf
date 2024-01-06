@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi, I'm Rana Alsaggaf</h1>
-<h3 align="center">A passionate IT student</h3>
+<h3 align="center">Coding Dreams, Designing Realities. IT Student on a Journey of Innovation. 🌟 </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/af/ee/e4afee4aaadbf2fecf8374311710e41b.jpg">
 
 
