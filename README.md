@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rana Alsaggaf</h1>
 <h3 align="center">A passionate IT student</h3>
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/703617141809768329/">
 
 - 🌱 I’m currently learning **UI / UX , Full Stack , Flutter**
 
