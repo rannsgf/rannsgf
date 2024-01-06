@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg)]
+[![MasterHead](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Rana Alsaggaf</h1>
+<h1 align="center">Hi, I'm Rana Alsaggaf</h1>
 <h3 align="center">A passionate IT student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/af/ee/e4afee4aaadbf2fecf8374311710e41b.jpg">
 
